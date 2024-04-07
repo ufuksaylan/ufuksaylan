@@ -1,7 +1,10 @@
 
 ### About Me
 
-Hi there! I'm Ufuk, an IT student at Vilnius Tech, currently enrolled in the Web Development Career Program at Turing College. My coding journey began back in high school, and since then, I've been hooked on the thrill of problem-solving and crafting efficient code. With each new project, I'm constantly pushing myself to learn and grow, always eager to take on the next challenge. 
+Hi there! I'm Ufuk, an IT student at Vilnius Tech, currently enrolled in the Web Development Career Program at Turing College. 
+
+My coding journey began back in high school, and since then, I've been hooked on the thrill of problem-solving and crafting efficient code. 
+With each new project, I'm constantly pushing myself to learn and grow, always eager to take on the next challenge. 
 
 <p align="center">
   <a href="mailto:ufuksaylannn@gmail.com?subject=Hello%20Ufuk"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

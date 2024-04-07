@@ -1,7 +1,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying Information Technology at Vilnius Tech and doing the Career Program in Web Development at Turing College. \
+I am currently studying Information Technology at Vilnius Tech and doing the Career Program in Web Development at Turing College. \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for learning and exploring new technologies.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem-solving and automating daily tasks.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently focusing on improving my skills in Java, Spring Framework, Angular, and Ruby.\
